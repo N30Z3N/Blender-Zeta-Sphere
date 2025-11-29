@@ -1,3 +1,5 @@
+**Disclaimer**: I'm not the original author just took this tool and updated with gemini 3.0 pro to be compatible with blender 5.0.
+
 # Sculpt Tools for Blender
 
 **Rapid Armature-to-Mesh Prototyping System**
