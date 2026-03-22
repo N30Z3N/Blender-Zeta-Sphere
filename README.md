@@ -1,4 +1,7 @@
 **Disclaimer**: I'm not the original author just took this tool and updated with gemini 3.0 pro to be compatible with blender 5.0.
+## 📝 Credits
+*   **Original Author:** [Alfonso Annarumma](https://github.com/anfeo)
+*   **Category:** Sculpting / Modeling
 
 # Sculpt Tools for Blender
 
@@ -92,7 +95,3 @@ One of the most powerful features of this tool is the ability to refine the shap
 *   **Modifiers:** The generated meshes remain live (modifiers are not applied). You can manually tweak the Skin or Subsurf modifiers in the Modifier Properties panel after generation.
 
 ---
-
-## 📝 Credits
-*   **Original Author:** [Alfonso Annarumma](https://github.com/anfeo)
-*   **Category:** Sculpting / Modeling
